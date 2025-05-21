@@ -1,0 +1,23 @@
+.knopki {
+  display: flex;
+  justify-content: space-between;
+  gap: 4vw;
+  font-family: Inter;
+  font-weight: 700;
+}
+
+.knopki a {
+  text-decoration: none;
+  color: black;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+  padding: 1vw;
+  align-items: center;
+}
+
+.menu img {
+  cursor: pointer;
+}
